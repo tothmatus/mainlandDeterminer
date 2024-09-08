@@ -1,4 +1,4 @@
-package utils;
+package com.toth.matus.utils;
 
 import java.awt.geom.Point2D;
 import java.util.ArrayList;

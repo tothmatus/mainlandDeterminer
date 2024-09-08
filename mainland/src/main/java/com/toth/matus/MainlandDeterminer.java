@@ -10,10 +10,11 @@ import java.util.Optional;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.toth.matus.models.CountryDataRecord;
+import com.toth.matus.utils.AreaCalculator;
+import com.toth.matus.utils.CoordinatesParser;
 
 import lombok.extern.java.Log;
-import utils.AreaCalculator;
-import utils.CoordinatesParser;
+
 
 @Log
 public class MainlandDeterminer {
